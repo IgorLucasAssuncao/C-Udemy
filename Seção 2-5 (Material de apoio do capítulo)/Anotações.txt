@@ -1,0 +1,9 @@
+Link: https://www.microsoft.com/net/learn/what-is-dotnet
+
+.NET é uma plataforma versáril que permite desenvolver aplicações para web, desktop e mobile. O .NET é um framework desenvolvido pela Microsoft, que pode ser instalado em sistemas Windows e Linux. O .NET é um framework de código aberto, que pode ser utilizado gratuitamente.
+
+Linguagens: C#, VB.Net, F# 
+
+Bibliotecas: https://learn.microsoft.com/en-us/previous-versions/gg145045(v=vs.110)?redirectedfrom=MSDN
+
+garbage collection: Forma de gerencimento de memória, que permite que o programador não precise se preocupar com a alocação e desalocação de memória.
