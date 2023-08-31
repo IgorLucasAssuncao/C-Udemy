@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\igorl\\OneDrive\\Área de Trabalho\\C# Udemy\\Seção_4_40_classes_objetos_e_atributos\\Seção_4_40_classes_objetos_e_atributos.csproj",
-      "projectName": "Seção_4_40_classes_objetos_e_atributos",
-      "projectPath": "C:\\Users\\igorl\\OneDrive\\Área de Trabalho\\C# Udemy\\Seção_4_40_classes_objetos_e_atributos\\Seção_4_40_classes_objetos_e_atributos.csproj",
+      "projectUniqueName": "C:\\Users\\igorl\\OneDrive\\Área de Trabalho\\C# Udemy\\C# Udemy.csproj",
+      "projectName": "C# Udemy",
+      "projectPath": "C:\\Users\\igorl\\OneDrive\\Área de Trabalho\\C# Udemy\\C# Udemy.csproj",
       "packagesPath": "C:\\Users\\igorl\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\igorl\\OneDrive\\Área de Trabalho\\C# Udemy\\Seção_4_40_classes_objetos_e_atributos\\obj\\",
+      "outputPath": "C:\\Users\\igorl\\OneDrive\\Área de Trabalho\\C# Udemy\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\igorl\\AppData\\Roaming\\NuGet\\NuGet.Config"
